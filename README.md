@@ -11,6 +11,6 @@
     hbApi.openAppWithHBTableMessage("");
     
 ##Developed by
-Name: liuzhanta
-E-mail: liuzhanta@huoban.com
-Subject: android-sdk-tr
+ Name: liuzhanta
+ E-mail: liuzhanta@huoban.com
+ Subject: android-sdk-tr
