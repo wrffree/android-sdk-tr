@@ -1,1 +1,1 @@
-include ':sample', ':hb_sdk_1.0'
+include ':sdk-sample', ':huoban-sdk-v1'

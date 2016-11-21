@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HuobanSDK.iml" filepath="$PROJECT_DIR$/HuobanSDK.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hb-sdk-tools/hb-sdk-tools.iml" filepath="$PROJECT_DIR$/hb-sdk-tools/hb-sdk-tools.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huoban-sdk-v1/huoban-sdk-v1.iml" filepath="$PROJECT_DIR$/huoban-sdk-v1/huoban-sdk-v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-sample/sdk-sample.iml" filepath="$PROJECT_DIR$/sdk-sample/sdk-sample.iml" />
     </modules>
   </component>
 </project>

@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/hb-sdk-tools" />
-            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/huoban-sdk-v1" />
+            <option value="$PROJECT_DIR$/sdk-sample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
