@@ -1,4 +1,5 @@
 # android-sdk-tr
+
 ##Usage
     HBApiImpl hbApi = HBApiImpl.getInstance(this);
 ###OPEN_SPACE(打开工作区)
@@ -10,7 +11,8 @@
 ###OPEN_APP_WITH_TABLE_MESSAGE(打开应用)
     hbApi.openAppWithHBTableMessage("");
     
-##Developed by
- Name: liuzhanta
- E-mail: liuzhanta@huoban.com
- Subject: android-sdk-tr
+Developed by
+------------
+Name: Liuzhanta 
+E-mail: tata1989y@gmail.com 
+Subject: android-sdk-tr  
