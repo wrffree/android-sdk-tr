@@ -13,6 +13,6 @@
     
 Developed by
 ------------
-Name: Liuzhanta 
+Name: Liuzhanta
 E-mail: tata1989y@gmail.com 
 Subject: android-sdk-tr  
